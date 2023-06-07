@@ -12,7 +12,7 @@ setup(
     author_email='bharti.sagar@skyflow.com',
     packages=find_packages(),
     url='https://github.com/skyflowapi/skyflow-python/',
-    description='demo SDK for the Python programming language',
+    description='demo SDK for the Python programming language. those',
     long_description=open('README.md').read(),
     install_requires=[],
     python_requires=">=3.7"
