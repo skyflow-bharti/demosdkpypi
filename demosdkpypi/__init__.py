@@ -1,1 +1,1 @@
-from hello import sayHello
+from demosdkpypi.hello import sayHello
