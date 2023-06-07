@@ -3,7 +3,7 @@ import sys
 
 if sys.version_info < (3, 7):
     raise RuntimeError("my demo requires Python 3.7+")
-current_version = '1.9.2'
+current_version = '1.9.5'
 
 setup(
     name='demosdkpypi',
